@@ -1,5 +1,4 @@
-package FredTest;
-
+package weatherEV3;
 
 
 import lejos.hardware.Button;
